@@ -1,4 +1,4 @@
-# Password_Generator
+# Day_Scheduler
 
 ## Description
 
